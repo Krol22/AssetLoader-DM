@@ -1,0 +1,17 @@
+{
+  "name": "asset-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asset_getter.js",
+  "dependencies": {
+    "jsdom": "^11.1.0"
+  },
+  "devDependencies": {
+    "jsdom": "^11.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
